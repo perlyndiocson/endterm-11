@@ -19,7 +19,6 @@
 </body>
 </html>
 
-<style>
 	body {
   background: #222;
 }
