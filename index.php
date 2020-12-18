@@ -849,224 +849,331 @@ body {
     width: 20px; } }
 </style>
 
-
- <!-- Site footer -->
-    <footer class="site-footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12 col-md-6">
-            <h6>About</h6>
-            <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
-          </div>
-
-          <div class="col-xs-6 col-md-3">
-            <h6>Categories</h6>
-            <ul class="footer-links">
-              <li><a href="http://scanfcode.com/category/c-language/">C</a></li>
-              <li><a href="http://scanfcode.com/category/front-end-development/">UI Design</a></li>
-              <li><a href="http://scanfcode.com/category/back-end-development/">PHP</a></li>
-              <li><a href="http://scanfcode.com/category/java-programming-language/">Java</a></li>
-              <li><a href="http://scanfcode.com/category/android/">Android</a></li>
-              <li><a href="http://scanfcode.com/category/templates/">Templates</a></li>
-            </ul>
-          </div>
-
-          <div class="col-xs-6 col-md-3">
-            <h6>Quick Links</h6>
-            <ul class="footer-links">
-              <li><a href="http://scanfcode.com/about/">About Us</a></li>
-              <li><a href="http://scanfcode.com/contact/">Contact Us</a></li>
-              <li><a href="http://scanfcode.com/contribute-at-scanfcode/">Contribute</a></li>
-              <li><a href="http://scanfcode.com/privacy-policy/">Privacy Policy</a></li>
-              <li><a href="http://scanfcode.com/sitemap/">Sitemap</a></li>
-            </ul>
-          </div>
-        </div>
-        <hr>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-sm-6 col-xs-12">
-            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by 
-         <a href="#">Scanfcode</a>.
-            </p>
-          </div>
-
-          <div class="col-md-4 col-sm-6 col-xs-12">
-            <ul class="social-icons">
-              <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
-              <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>   
-            </ul>
-          </div>
-        </div>
-      </div>
-</footer>
 <style>
-	.site-footer
-{
-  background-color:#26272b;
-  padding:45px 0 20px;
-  font-size:15px;
-  line-height:24px;
-  color:#737373;
+/*  Footer css */
+.element-btn .element-fill-btn {
+    background-color: #ff6600;
+    border: 0;
+    color: #fff;
+    padding: 13px 5px;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    width: 252px;
+    margin: 0 auto;
+    border-radius: 25px;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    box-shadow: 0px 10px 50px -10px rgba(255, 10, 120, 1);
+   
 }
-.site-footer hr
-{
-  border-top-color:#bbb;
-  opacity:0.5
+.fill-btn {
+    background-color: #ff6600;
+    border: 0;
+    color: #fff;
+    padding: 13px 5px;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    width: 252px;
+    margin: 0 auto;
+    border-radius: 25px;
+    position: absolute;
+    bottom: -25px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    -moz-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+   
 }
-.site-footer hr.small
-{
-  margin:20px 0
+.fill-btn:hover,
+.element-btn .element-fill-btn:hover {
+    background-color: #201f1f;
+    box-shadow: 0px 10px 50px -10px rgb(32, 31, 31);
 }
-.site-footer h6
-{
-  color:#fff;
-  font-size:16px;
-  text-transform:uppercase;
-  margin-top:5px;
-  letter-spacing:2px
+
+
+.footer {
+    position: relative;
+    background-color: #201f1f;
+    padding:50px 0px;
 }
-.site-footer a
-{
-  color:#737373;
+
+.footerBg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    opacity: 0.13;
+    background: url('http://placehold.it/1920x677') no-repeat top center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
 }
-.site-footer a:hover
-{
-  color:#3366cc;
-  text-decoration:none;
+
+.form-Box input[type="text"],
+.form-Box input[type="email"],
+.form-Box input[type="passowrd"],
+.form-Box textarea {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #737373;
+    border-radius: 25px;
+    background-color: transparent;
+    padding: 5px 25px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: #737373;
+    font-style: italic;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    text-transform: uppercase;
 }
-.footer-links
-{
-  padding-left:0;
-  list-style:none
+.form-Box textarea {
+    height: 113px;
+    padding: 15px 25px;
+    resize: none;
 }
-.footer-links li
-{
-  display:block
+.form-Box .b_effect:focus,
+.subscribe form input:focus {
+    border-color: #ff6600;
 }
-.footer-links a
-{
-  color:#737373
+
+.form-Box .fill-btn {
+    position: static;
+    transform: translate(0%, 0);
+    -webkit-transform: translate(0%, 0);
+    -moz-transform: translate(0%, 0);
+    -ms-transform: translate(0%, 0);
+    width: 184px;
 }
-.footer-links a:active,.footer-links a:focus,.footer-links a:hover
-{
-  color:#3366cc;
-  text-decoration:none;
+
+.form-Box .fill-btn:hover,
+.subscribe form .fill-btn:hover {
+    background-color: #ffe402;
+    color: #201f1f;
+    box-shadow: 0px 10px 50px -10px rgb(255, 228, 2);
 }
-.footer-links.inline li
-{
-  display:inline-block
+
+.fTitle {
+    font-weight: 900;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-style: italic;
+    margin-bottom: 20px;
 }
-.site-footer .social-icons
-{
-  text-align:right
+
+.fTitle span {
+    color: #ff6600;
 }
-.site-footer .social-icons a
-{
-  width:40px;
-  height:40px;
-  line-height:40px;
-  margin-left:6px;
-  margin-right:0;
-  border-radius:100%;
-  background-color:#33353d
+
+.contact-address ul li,
+.contact-address ul li a {
+    color: #737373;
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 15px;
+    line-height: 32px;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
 }
-.copyright-text
-{
-  margin:0
+
+.contact-address {
+    padding: 0 15%;
 }
-@media (max-width:991px)
-{
-  .site-footer [class^=col-]
-  {
-    margin-bottom:30px
-  }
+
+.contact-address ul li i {
+    margin-right: 15px;
+    display: inline-block;
+    float: left;
+    line-height: 32px;
 }
-@media (max-width:767px)
-{
-  .site-footer
-  {
-    padding-bottom:0
-  }
-  .site-footer .copyright-text,.site-footer .social-icons
-  {
-    text-align:center
-  }
+
+.contact-address ul li span {
+    display: table;
 }
-.social-icons
-{
-  padding-left:0;
-  margin-bottom:0;
-  list-style:none
+
+.contact-address ul li a:hover {
+    color: #ff6600;
 }
-.social-icons li
-{
-  display:inline-block;
-  margin-bottom:4px
+
+.subscribe form {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 60px;
 }
-.social-icons li.title
-{
-  margin-right:15px;
-  text-transform:uppercase;
-  color:#96a2b2;
-  font-weight:700;
-  font-size:13px
+
+.subscribe form input {
+    width: 100%;
+    height: 50px;
+    border: 1px solid #737373;
+    border-radius: 25px;
+    background-color: transparent;
+    padding: 5px 215px 5px 25px;
+    font-size: 14px;
+    color: #737373;
+    font-style: italic;
 }
-.social-icons a{
-  background-color:#eceeef;
-  color:#818a91;
-  font-size:16px;
-  display:inline-block;
-  line-height:44px;
-  width:44px;
-  height:44px;
-  text-align:center;
-  margin-right:8px;
-  border-radius:100%;
-  -webkit-transition:all .2s linear;
-  -o-transition:all .2s linear;
-  transition:all .2s linear
+
+.subscribe form .fill-btn {
+    bottom: auto;
+    top: 0;
+    right: 0;
+    left: auto;
+    transform: translate(0%, 0);
+    -webkit-transform: translate(0%, 0);
+    -moz-transform: translate(0%, 0);
+    -ms-transform: translate(0%, 0);
+    width: 209px;
 }
-.social-icons a:active,.social-icons a:focus,.social-icons a:hover
-{
-  color:#fff;
-  background-color:#29aafe
+
+.social-icons ul li {
+    display: inline-block;
+    float: left;
+    color: #fff;
+    text-align: center;
+    line-height: 43px;
+    position: relative;
+    width: 43px;
+    height: 43px;
+    margin-right: 28px;
 }
-.social-icons.size-sm a
-{
-  line-height:34px;
-  height:34px;
-  width:34px;
-  font-size:14px
+
+.social-icons ul li a {
+    color: #fff;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    font-size: 16px;
 }
-.social-icons a.facebook:hover
-{
-  background-color:#3b5998
+
+.social-icons ul li:before {
+    content: "";
+    width: 43px;
+    height: 43px;
+    display: inline-block;
+    position: absolute;
+    border: 1px solid #ff6600;
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
 }
-.social-icons a.twitter:hover
-{
-  background-color:#00aced
+
+.social-icons ul li:last-child {
+    margin: 0;
 }
-.social-icons a.linkedin:hover
-{
-  background-color:#007bb6
+
+.social-icons ul li:hover:before {
+    background: #ff6600;
 }
-.social-icons a.dribbble:hover
-{
-  background-color:#ea4c89
+
+
+/* Copyright css */
+
+.copyright {
+    padding: 51.5px 0;
+    text-align: center;
 }
-@media (max-width:767px)
-{
-  .social-icons li.title
-  {
-    display:block;
-    margin-right:0;
-    font-weight:600
-  }
+
+.copyright h6 {
+    font-size: 14px;
+    font-style: italic;
+    color: #737373;
+}
+
+.copyright h6 a {
+    color: #ff6600;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+}
+
+.copyright h6 a:hover {
+    color: #201f1f;
 }
 </style>
+ <!-- footer Section Begins -->
+<section id="footer" class="footer">
+<div class="footerBg"></div>
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="contact-form btm-brdr">
+<div class="form-Box">
+<input type="text" placeholder="Name" class="b_effect" />
+ </div>
+<div class="form-Box">
+<input type="text" placeholder="Email" class="b_effect" />
+</div>
+<div class="form-Box">                              <textarea placeholder="Message" class="b_effect"></textarea>
+</div>
+<div class="form-Box">
+<input type="submit" value="Submit" class="fill-btn" />
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="contact-address btm-brdr">
+<h4 class="fTitle"> Contact <span>Us</span> </h4>
+<ul>
+<li> <i class="fa fa-phone" aria-hidden="true"></i> <span>1800 999 87 21</span> </li>
+<li> <i class="fa fa-map-marker" aria-hidden="true"></i> <span>121 Abc St, Delhi VIC 5000, India</span> </li>
+<li><i class="fa fa-envelope-o" aria-hidden="true"></i><span>info@scanfcode.com</span> 
+                                </li>
+</ul>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+<div class="subscribe btm-brdr">
+<h4 class="fTitle"> Subscribe <span>Newsletter</span> </h4>
+<form>
+<input type="text" placeholder="Example@example.com" />                                <button type="button" class="fill-btn">Subscribe</button>
+</form>
+</div>
+<div class="social-icons">
+<h4 class="fTitle"> Social <span>News</span> </h4>
+<ul>
+<li>
+<a href="'#" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a></li>
+<li> <a href="'#" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
+<li><a href="'#" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a></li>
+<li><a href="'#" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- footer Section Ends -->
+<!-- copyright Section Begins -->
+<section id="copyright" class="copyright">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<h6> © 2017 This theme is powered by <a href="http://scanfcode.com" target="_blank">Scanfcode.</a> </h6>
+</div>
+</div>
+</div>
+</section>
+<!-- copyright Section Ends -->
+
 
 
