@@ -83,7 +83,7 @@ body {
 		<h1>Merry Christmas!</h1>
 		<h2 class="copyright">pure css Santa Caul made with ♥ by <a href="https://twitter.com/alireza29675" target="_blank">Alireza Sheikholmolouki</a></h2>
 	</div>
-
+<style>
 ::selection {
   background: rgba(255,255,0,0.5);
 }
@@ -846,4 +846,5 @@ body {
 
   100% {
     width: 20px; } }
+</style>
 
