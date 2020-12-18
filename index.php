@@ -1,3 +1,75 @@
+<nav class="navbar-fixed-top navbar-default">
+<div class="container-fluid">
+  <div class="navbar-header">
+    <a class="navbar-brand" href="#">Website Name</a>
+  </div>
+  <div>
+    <ul class="nav navbar-nav navbar-right">
+      <li class="active"><a href="#intro">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</div>
+</nav><!-- /.navbar -->
+
+<!-- Section 1 -->
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+      <h1 class="first-h1">Main Headline</h1>
+      <hr>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Section 2 -->
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+      <h1>Second Headline</h1>
+      <hr>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Section 3 -->
+<section>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+      <h1>Third Headline</h1>
+      <hr>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <div class="window">
 		<div class="santa">
 			<div class="head">
