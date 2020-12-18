@@ -22,7 +22,7 @@
  		    	 
 <style>
 	body {
-  background: #222;
+ 
 }
 
 header {
