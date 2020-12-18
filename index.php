@@ -1,161 +1,58 @@
+<!DOCTYPE html>
 <html>
 <head>
-	<title>nav bar</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
+</style>
 </head>
 <body>
-<nav class="a">
-	
-	<body>
-<header>
-  <a href="#" class="logo">KAI'S WEBSITE</a>
-  <nav class="site-nav">
-    <ul>
-      <li><a href="#">Home Page</a></li>
-      <li><a href="#">SVG</a></li>
-      <li><a href="#">CANVAS</a></li>
-      <li><a href="#">About Us</a></li>
-      <li><a href="#">Contact Us</a></li>
-    </ul>
-  </nav>
-</header>
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <div class="topnav-right">
+    <a href="#search">Search</a>
+    <a href="#about">About</a>
+  </div>
+</div>
+
+<div style="padding-left:16px">
+  <h2>Top Navigation with Right Aligned Links</h2>
+  <p>Some content..</p>
+</div>
+
 </body>
- 		    	 
-<style>
-	body {
- 
-}
-
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 2.5rem;
-}
-
-.logo {
-  font-size: 34px;
-  line-height: 50px;
-  text-align: center;
-  text-decoration: none;
-  color: white;
-}
-
-.site-nav {
-  border-bottom: 1px solid rgba(200, 200, 200, 0.2);
-}
-
-ul {
-  display: flex;
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-ul:hover li:not(:hover) a {
-  opacity: 0.2;
-}
-ul li {
-  position: relative;
-  padding: 30px 25px 30px 25px;
-  cursor: pointer;
-}
-ul li::after {
-  position: absolute;
-  content: "";
-  top: 50%;
-  left: 0;
-  width: 50%;
-  height: 2px;
-  background: #3498db;
-  transform: scaleX(0);
-  transition: 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-ul li:hover::after, ul li.active::after {
-  transform: scaleX(1);
-}
-ul li a {
-  position: relative;
-  display: flex;
-  color: white;
-  font-family: Lato, sans-serif;
-  text-decoration: none;
-  transition: 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
-}
-	
-<footer>
-	
-
-<footer class="new_footer_area bg_color">
-            <div class="new_footer_top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6">
-                            <div class="f_widget company_widget wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                                <h3 class="f-title f_600 t_color f_size_18">Get in Touch</h3>
-                                <p>Don’t miss any updates of our new templates and extensions.!</p>
-                                <form action="#" class="f_subscribe_two mailchimp" method="post" novalidate="true" _lpchecked="1">
-                                    <input type="text" name="EMAIL" class="form-control memail" placeholder="Email">
-                                    <button class="btn btn_get btn_get_two" type="submit">Subscribe</button>
-                                    <p class="mchimp-errmessage" style="display: none;"></p>
-                                    <p class="mchimp-sucmessage" style="display: none;"></p>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="f_widget about-widget pl_70 wow fadeInLeft" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
-                                <h3 class="f-title f_600 t_color f_size_18">Download</h3>
-                                <ul class="list-unstyled f_list">
-                                    <li><a href="#">Company</a></li>
-                                    <li><a href="#">Android App</a></li>
-                                    <li><a href="#">ios App</a></li>
-                                    <li><a href="#">Desktop</a></li>
-                                    <li><a href="#">Projects</a></li>
-                                    <li><a href="#">My tasks</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="f_widget about-widget pl_70 wow fadeInLeft" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
-                                <h3 class="f-title f_600 t_color f_size_18">Help</h3>
-                                <ul class="list-unstyled f_list">
-                                    <li><a href="#">FAQ</a></li>
-                                    <li><a href="#">Term &amp; conditions</a></li>
-                                    <li><a href="#">Reporting</a></li>
-                                    <li><a href="#">Documentation</a></li>
-                                    <li><a href="#">Support Policy</a></li>
-                                    <li><a href="#">Privacy</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="f_widget social-widget pl_70 wow fadeInLeft" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInLeft;">
-                                <h3 class="f-title f_600 t_color f_size_18">Team Solutions</h3>
-                                <div class="f_social_icon">
-                                    <a href="#" class="fab fa-facebook"></a>
-                                    <a href="#" class="fab fa-twitter"></a>
-                                    <a href="#" class="fab fa-linkedin"></a>
-                                    <a href="#" class="fab fa-pinterest"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer_bg">
-                    <div class="footer_bg_one"></div>
-                    <div class="footer_bg_two"></div>
-                </div>
-            </div>
-            <div class="footer_bottom">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 col-sm-7">
-                            <p class="mb-0 f_400">© cakecounter Inc.. 2019 All rights reserved.</p>
-                        </div>
-                        <div class="col-lg-6 col-sm-5 text-right">
-                            <p>Made with <i class="icon_heart"></i> in <a href="#">CakeCounter</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-
-	
+</html>
