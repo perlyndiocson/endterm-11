@@ -18,7 +18,7 @@
 </body>
 </html>
 
-<style></style>
+<style>
 	body {
   background: #222;
 }
@@ -104,7 +104,7 @@ ul li a {
 		<h2 class="copyright">pure css Santa Caul made with ♥ by <a href="https://twitter.com/alireza29675" target="_blank">Alireza Sheikholmolouki</a></h2>
 	</div>
 
-<style> </style>
+<style> 
 	::selection {
   background: rgba(255,255,0,0.5);
 }
