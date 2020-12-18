@@ -786,7 +786,7 @@ body {
 
   100% {
     width: 20px; } }
-
+</style?
 
 
 
