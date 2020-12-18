@@ -979,7 +979,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
     height: 46px;
     border-radius: 50%;
     font-size: 14px;
-    line-height: 45px;
+    line-height: 30px;
     color: #858da8;
     display: inline-block;
     background: #ebeef5;
