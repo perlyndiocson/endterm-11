@@ -788,18 +788,5 @@ body {
     width: 20px; } }
 	
 	
-	
-	<!-- Showcase of simple minimum top navbar without any front end framework -->
-
-<!-- Rumour said that CSS ID is faster than class. Hence I used ID instead -->
-<nav id="main-navbar">
-  <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Portfolio</a></li>
-    <li><a href="#">FAQ</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</nav>
 
             
