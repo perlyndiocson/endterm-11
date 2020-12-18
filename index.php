@@ -901,10 +901,6 @@ body {
     background: #fbfbfd;
 }
 
-.new_footer_area {
-    background: #fbfbfd;
-}
-
 
 .new_footer_top {
     padding: 120px 0px 270px;
