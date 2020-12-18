@@ -80,6 +80,11 @@ ul li a {
   text-decoration: none;
   transition: 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
+	
+	<div class="container">
+    <h1 class="animated">Merry Christmas</h1>
+    <p><img src="https://i.ibb.co/8D6XK4m/logo.png" alt="Traversy Media"></p>
+  </div>
 
 
 	
