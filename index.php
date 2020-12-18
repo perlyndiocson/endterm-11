@@ -41,6 +41,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
+  <a href="#css">Css</a>
   <a href="#svg">Svg</a>
   <a href="#canvas">Canvas</a>
   <a href="#contact">Contact</a>
@@ -848,5 +849,58 @@ body {
     width: 20px; } }
 </style>
 
+
+  <!-- Site footer -->
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <h6>It's about the community.</h6>
+            <p class="text-justify">Did you know everyone is a writer? Leave us a message to get started.</p>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Connect</h6>
+            <ul class="footer-links">
+              <li><a href="https://www.coasterscorner.com/newsletter">Latest Issue</a></li>
+              
+              <li><a href="https://www.coasterscorner.com/contact">Contact Us</a></li>
+              <li><a href="https://www.coasterscorner.com/affiliates">Affiliates</a></li>
+             
+              
+            </ul>
+          </div>
+
+          <div class="col-xs-6 col-md-3">
+            <h6>Learn</h6>
+            <ul class="footer-links">
+              
+              <li><a href="https://www.coasterscorner.com">Newsletter</a></li>
+              <li><a href="https://podcasts.apple.com/ca/podcast/coasters-corner-podcast/id1433841752">Podcast</a></li>
+              <li><a href="https://www.coasterscorner.com/blog">Blog</a></li>
+              
+            </ul>
+          </div>
+        </div>
+        <hr>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-sm-6 col-xs-12">
+            <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by 
+         <a href="https://www.coasterscorner.com/">Coaster's Corner</a>.
+            </p>
+          </div>
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <ul class="social-icons">
+              
+              <li><a class="twitter" href="https://twitter.com/coasters_corner"><i class="fa fa-twitter"></i></a></li>
+            
+            </ul>
+          </div>
+        </div>
+      </div>
+</footer>
 
 
