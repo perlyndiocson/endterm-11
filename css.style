@@ -1,7 +1,3 @@
-html,body {
-  height: 500%;
-  margin: 0;
-}
 .fond{position:fixed;padding-top:85px;top:0;left:0; right:0;bottom:0;
   background-color:#84cedb;}
 
