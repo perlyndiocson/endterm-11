@@ -1065,7 +1065,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 88px;
     height: 100px;
   background-size:100%;
-    bottom: 0;
+    bottom: 40;
     left: 38%;
     position: absolute;
     -webkit-animation: myfirst 30s linear infinite;
