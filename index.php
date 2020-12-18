@@ -22,7 +22,7 @@
       <div class="col-md-12">
       <h1 class="first-h1">Main Headline</h1>
       <hr>
-        <p>Instantly break out into full speed gallop across the house for no reason have secret plans brown cats with pink ears wake up human for food at 4am so use lap as chair. Attack the dog then pretend like nothing happened scream at teh bath and claws in your leg meowing non stop for food plan steps for world domination yet kick up litter. Meow ignore the squirrels, you'll never catch them anyway, lounge in doorway wake up human for food at 4am so hide at bottom of staircase to trip human. Run in circles curl into a furry donut. Then cats take over the world sleep nap but caticus cuteicus for purr while eating or human give me attention meow.</p>
+        <p>During this time of faith and family, may the true meaning of Christmas fill you with joy. Wishing you a Merry Christmas and a blessed New Year. </p>
       </div>
     </div>
   </div>
@@ -887,10 +887,10 @@ body {
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-sm-7">
-                            <p class="mb-0 f_400">© cakecounter Inc.. 2019 All rights reserved.</p>
+                            <p class="mb-0 f_400">© kaicounter Inc.. 2020 All rights reserved.</p>
                         </div>
                         <div class="col-lg-6 col-sm-5 text-right">
-                            <p>Made with <i class="icon_heart"></i> in <a href="#">CakeCounter</a></p>
+                           
                         </div>
                     </div>
                 </div>
