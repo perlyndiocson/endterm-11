@@ -850,330 +850,115 @@ body {
 </style>
 
 <style>
-/*  Footer css */
-.element-btn .element-fill-btn {
-    background-color: #ff6600;
-    border: 0;
-    color: #fff;
-    padding: 13px 5px;
-    font-size: 16px;
-    font-weight: 400;
-    font-style: italic;
-    text-transform: uppercase;
-    width: 200px;
-    margin: 0 auto;
-    border-radius: 25px;
-    transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    box-shadow: 0px 10px 50px -10px rgba(255, 10, 120, 1);
-   
-}
-.fill-btn {
-    background-color: #ff6600;
-    border: 0;
-    color: #fff;
-    padding: 13px 5px;
-    font-size: 16px;
-    font-weight: 400;
-    font-style: italic;
-    text-transform: uppercase;
-    width: 200px;
-    margin: 0 auto;
-    border-radius: 25px;
-    position: absolute;
-    bottom: -25px;
-    left: 50%;
-    transform: translate(-50%, 0);
-    -webkit-transform: translate(-50%, 0);
-    -moz-transform: translate(-50%, 0);
-    -ms-transform: translate(-50%, 0);
-    transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-   
-}
-.fill-btn:hover,
-.element-btn .element-fill-btn:hover {
-    background-color: #201f1f;
-    box-shadow: 0px 10px 50px -10px rgb(32, 31, 31);
+
+        section {
+            padding: 60px 0;
+           /* min-height: 100vh;*/
+        }
+ ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+.contact-area {
+    border-bottom: 1px solid #353C46;
 }
 
-
-.footer {
+.contact-content p {
+    font-size: 15px;
+    margin: 30px 0 60px;
     position: relative;
-    background-color: #201f1f;
-    padding:50px 0px;
 }
 
-.footerBg {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    opacity: 0.13;
-    background: url('http://placehold.it/1920x677') no-repeat top center;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-}
-
-.form-Box input[type="text"],
-.form-Box input[type="email"],
-.form-Box input[type="passowrd"],
-.form-Box textarea {
-    width: 75%;
-    height: 30px;
-    border: 1px solid #737373;
-    border-radius: 25px;
-    background-color: transparent;
-    padding: 5px 25px;
-    margin-bottom: 20px;
-    font-size: 14px;
-    color: #737373;
-    font-style: italic;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    text-transform: uppercase;
-}
-.form-Box textarea {
-    height: 113px;
-    padding: 15px 25px;
-    resize: none;
-}
-.form-Box .b_effect:focus,
-.subscribe form input:focus {
-    border-color: #ff6600;
-}
-
-.form-Box .fill-btn {
-    position: static;
-    transform: translate(0%, 0);
-    -webkit-transform: translate(0%, 0);
-    -moz-transform: translate(0%, 0);
-    -ms-transform: translate(0%, 0);
-    width: 150px;
-}
-
-.form-Box .fill-btn:hover,
-.subscribe form .fill-btn:hover {
-    background-color: #ffe402;
-    color: #201f1f;
-    box-shadow: 0px 10px 50px -10px rgb(255, 228, 2);
-}
-
-.fTitle {
-    font-weight: 400;
-    color: #ffffff;
-    text-transform: uppercase;
-    font-style: italic;
-    margin-bottom: 20px;
-}
-
-.fTitle span {
-    color: #ff6600;
-}
-
-.contact-address ul li,
-.contact-address ul li a {
-    color: #737373;
-    font-size: 16px;
-    font-style: italic;
-    margin-bottom: 15px;
-    line-height: 32px;
-    transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-}
-
-.contact-address {
-    padding: 0 15%;
-}
-
-.contact-address ul li i {
-    margin-right: 15px;
-    display: inline-block;
-    float: left;
-    line-height: 32px;
-}
-
-.contact-address ul li span {
-    display: table;
-}
-
-.contact-address ul li a:hover {
-    color: #ff6600;
-}
-
-.subscribe form {
-    position: relative;
-    display: inline-block;
-    width: 100%;
-    margin-bottom: 60px;
-}
-
-.subscribe form input {
-    width: 75%;
-    height: 30px;
-    border: 1px solid #737373;
-    border-radius: 25px;
-    background-color: transparent;
-    padding: 5px 215px 5px 25px;
-    font-size: 14px;
-    color: #737373;
-    font-style: italic;
-}
-
-.subscribe form .fill-btn {
-    bottom: auto;
-    top: 0;
-    right: 0;
-    left: auto;
-    transform: translate(0%, 0);
-    -webkit-transform: translate(0%, 0);
-    -moz-transform: translate(0%, 0);
-    -ms-transform: translate(0%, 0);
-    width: 209px;
-}
-
-.social-icons ul li {
-    display: inline-block;
-    float: left;
-    color: #fff;
-    text-align: center;
-    line-height: 43px;
-    position: relative;
-    width: 43px;
-    height: 43px;
-    margin-right: 28px;
-}
-
-.social-icons ul li a {
-    color: #fff;
-    position: relative;
-    display: inline-block;
-    width: 100%;
-    font-size: 16px;
-}
-
-.social-icons ul li:before {
+.contact-content p::after {
+    background: #353C46;
+    bottom: -30px;
     content: "";
-    width: 43px;
-    height: 43px;
-    display: inline-block;
+    height: 1px;
+    left: 50%;
     position: absolute;
-    border: 1px solid #ff6600;
-    transform: rotate(135deg);
-    -webkit-transform: rotate(135deg);
-    -moz-transform: rotate(135deg);
-    -o-transform: rotate(135deg);
-    transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
+    transform: translate(-50%);
+    width: 80%;
 }
 
-.social-icons ul li:last-child {
-    margin: 0;
+.contact-content h6 {
+    color: #8b9199;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 10px;
 }
 
-.social-icons ul li:hover:before {
-    background: #ff6600;
+.contact-content span {
+    color: #353c47;
+    margin: 0 10px;
 }
 
+.contact-social {
+    margin-top: 30px;
+}
 
-/* Copyright css */
+.contact-social > ul {
+    display: inline-flex;
+}
 
-.copyright {
-    padding: 51.5px 0;
+.contact-social ul li a {
+    border: 1px solid #8b9199;
+    color: #8b9199;
+    display: inline-block;
+    height: 40px;
+    margin: 0 10px;
+    padding-top: 7px;
+    transition: all 0.4s ease 0s;
+    width: 40px;
+}
+
+.contact-social ul li a:hover {
+    border: 1px solid #FAB702;
+    color: #FAB702;
+}
+
+.contact-content img {
+    max-width: 210px;
+}
+
+section, footer {
+    background: #1A1E25;
+    color: #868c96;
+}
+
+footer p {
+    padding: 40px 0;
     text-align: center;
 }
 
-.copyright h6 {
-    font-size: 14px;
-    font-style: italic;
-    color: #737373;
-}
-
-.copyright h6 a {
-    color: #ff6600;
-    transition: all 0.3s ease-in-out;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-}
-
-.copyright h6 a:hover {
-    color: #201f1f;
+footer img {
+    width: 44px;
 }
 </style>
- <!-- footer Section Begins -->
-<section id="footer" class="footer">
-<div class="footerBg"></div>
-<div class="container">
-<div class="row">
-<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-<div class="contact-form btm-brdr">
-<div class="form-Box">
-<input type="text" placeholder="Name" class="b_effect" />
- </div>
-<div class="form-Box">
-<input type="text" placeholder="Email" class="b_effect" />
-</div>
-<div class="form-Box">                              <textarea placeholder="Message" class="b_effect"></textarea>
-</div>
-<div class="form-Box">
-<input type="submit" value="Submit" class="fill-btn" />
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-<div class="contact-address btm-brdr">
-<h4 class="fTitle"> Contact <span>Us</span> </h4>
-<ul>
-<li> <i class="fa fa-phone" aria-hidden="true"></i> <span>1800 999 87 21</span> </li>
-<li> <i class="fa fa-map-marker" aria-hidden="true"></i> <span>121 Abc St, Delhi VIC 5000, India</span> </li>
-<li><i class="fa fa-envelope-o" aria-hidden="true"></i><span>info@scanfcode.com</span> 
-                                </li>
-</ul>
-</div>
-</div>
-<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-<div class="subscribe btm-brdr">
-<h4 class="fTitle"> Subscribe <span>Newsletter</span> </h4>
-<form>
-<input type="text" placeholder="Example@example.com" />                                <button type="button" class="fill-btn">Subscribe</button>
-</form>
-</div>
-<div class="social-icons">
-<h4 class="fTitle"> Social <span>News</span> </h4>
-<ul>
-<li>
-<a href="'#" target="_blank"> <i class="fa fa-facebook" aria-hidden="true"></i> </a></li>
-<li> <a href="'#" target="_blank"> <i class="fa fa-twitter" aria-hidden="true"></i> </a></li>
-<li><a href="'#" target="_blank"> <i class="fa fa-youtube-play" aria-hidden="true"></i> </a></li>
-<li><a href="'#" target="_blank"> <i class="fa fa-instagram" aria-hidden="true"></i> </a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</section>
-<!-- footer Section Ends -->
-<!-- copyright Section Begins -->
-<section id="copyright" class="copyright">
-<div class="container">
-<div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-<h6> © 2017 This theme is powered by <a href="http://scanfcode.com" target="_blank">Scanfcode.</a> </h6>
-</div>
-</div>
-</div>
-</section>
-<!-- copyright Section Ends -->
+ <section class="contact-area" id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-lg-3">
+                    <div class="contact-content text-center">
+
+                        <div class="contact-social">
+                            <ul>
+                                <li><a class="hover-target" href=""><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a class="hover-target" href=""><i class="fab fa-linkedin-in"></i></a></li>
+      
+    
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- =============== 1.9 Contact Area End ====================-->
+    <!-- =============== 1.9 Footer Area Start ====================-->
+    <footer>
+        <p>Copyright &copy; 2019 <img src="https://i.ibb.co/QDy827D/ak-logo.png" alt="logo"> All Rights Reserved.</p>
+    </footer>
 
 
 
