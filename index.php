@@ -1,4 +1,3 @@
-
 <html>
 <head>
 	<title>nav bar</title>
@@ -8,17 +7,18 @@
 	
 	<ul class="b">
 		     <li><a href="#">Contact</a></li>
-             <li><a href="#">About</a></li>
-			 <li><a href="#">News</a></li>
+                     <li><a href="#">About</a></li>
+		     <li><a href="#">News</a></li>
 		     <li><a href="#">Home</a></li>
 	</ul>		 
- 		     <h1 class="c">lafdal yahia</h1>	 
+ 		    	 
  </nav>
 
 	
 </body>
 </html>
 
+<style></style>
 	body {
   background: #222;
 }
@@ -104,7 +104,7 @@ ul li a {
 		<h2 class="copyright">pure css Santa Caul made with ♥ by <a href="https://twitter.com/alireza29675" target="_blank">Alireza Sheikholmolouki</a></h2>
 	</div>
 
-<style>
+<style> </style>
 	::selection {
   background: rgba(255,255,0,0.5);
 }
