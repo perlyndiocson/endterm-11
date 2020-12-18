@@ -857,10 +857,10 @@ body {
     color: #fff;
     padding: 13px 5px;
     font-size: 16px;
-    font-weight: 900;
+    font-weight: 400;
     font-style: italic;
     text-transform: uppercase;
-    width: 252px;
+    width: 200px;
     margin: 0 auto;
     border-radius: 25px;
     transition: all 0.3s ease-in-out;
@@ -876,10 +876,10 @@ body {
     color: #fff;
     padding: 13px 5px;
     font-size: 16px;
-    font-weight: 900;
+    font-weight: 400;
     font-style: italic;
     text-transform: uppercase;
-    width: 252px;
+    width: 200px;
     margin: 0 auto;
     border-radius: 25px;
     position: absolute;
@@ -923,8 +923,8 @@ body {
 .form-Box input[type="email"],
 .form-Box input[type="passowrd"],
 .form-Box textarea {
-    width: 100%;
-    height: 50px;
+    width: 75%;
+    height: 30px;
     border: 1px solid #737373;
     border-radius: 25px;
     background-color: transparent;
@@ -954,7 +954,7 @@ body {
     -webkit-transform: translate(0%, 0);
     -moz-transform: translate(0%, 0);
     -ms-transform: translate(0%, 0);
-    width: 184px;
+    width: 150px;
 }
 
 .form-Box .fill-btn:hover,
@@ -965,7 +965,7 @@ body {
 }
 
 .fTitle {
-    font-weight: 900;
+    font-weight: 400;
     color: #ffffff;
     text-transform: uppercase;
     font-style: italic;
@@ -1016,8 +1016,8 @@ body {
 }
 
 .subscribe form input {
-    width: 100%;
-    height: 50px;
+    width: 75%;
+    height: 30px;
     border: 1px solid #737373;
     border-radius: 25px;
     background-color: transparent;
