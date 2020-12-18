@@ -51,8 +51,8 @@ body {
 </div>
 
 <div style="padding-left:16px">
-  <h2>Top Navigation with Right Aligned Links</h2>
-  <p>Some content..</p>
+  <h2>HELLO! WELCOME TO KAI'S WEBSITE</h2>
+  <p>Peace and joy to you and yours this Christmas season.</p>
 </div>
 
 </body>
@@ -81,7 +81,7 @@ body {
 	</div>
 	<div class="message">
 		<h1>Merry Christmas!</h1>
-		<h2 class="copyright">pure css Santa Caul made with ♥ by <a href="https://twitter.com/alireza29675" target="_blank">Alireza Sheikholmolouki</a></h2>
+		
 	</div>
 <style>
 ::selection {
