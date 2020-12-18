@@ -925,4 +925,5 @@ section {
     line-height: 1.8;
   }
 }
+</style>
 
