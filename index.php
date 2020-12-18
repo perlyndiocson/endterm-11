@@ -41,7 +41,7 @@ header {
 }
 
 .site-nav {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1px solid rgba(200, 200, 200, 0.2);
 }
 
 ul {
@@ -61,9 +61,9 @@ ul li {
 ul li::after {
   position: absolute;
   content: "";
-  top: 100%;
+  top: 50%;
   left: 0;
-  width: 100%;
+  width: 50%;
   height: 2px;
   background: #3498db;
   transform: scaleX(0);
