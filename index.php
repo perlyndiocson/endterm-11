@@ -35,19 +35,21 @@ body {
 .topnav-right {
   float: right;
 }
+
 </style>
 </head>
 <body>
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="#css">Css</a>
-  <a href="#svg">Svg</a>
+	</div>
+	<li><a href="https://css-1.herokuapp.com/">Svg</a></li>
+	</div>
   <a href="#canvas">Canvas</a>
   <a href="#contact">Contact</a>
   <div class="topnav-right">
-    <a href="#search">Search</a>
-    <a href="#about">About</a>
+  <a href="#search">Search</a>
+  <a href="#about">About</a>
   </div>
 </div>
 
