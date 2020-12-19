@@ -858,42 +858,6 @@ body {
   100% {
     width: 20px; } }
 </style>
-link(href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css')
-footer.footer(id='footer')
-    div.container.footer-wrapper
-        div.row
-            div.col-xs-4
-                ul.list-unstyled
-                    li.title Social
-                    li: a(href='#' title='Twitter')
-                        i.twitter-logo.fa.fa-twitter.fa-2x.social-icon.text-center
-                    li: a(href='#' title='Facebook')
-                        i.facebook-logo.fa.fa-facebook.fa-2x.social-icon.text-center
-                    li: a(href='#' title='Google+')
-                        i.gplus-logo.fa.fa-google-plus.fa-2x.social-icon.text-center
-                    li: a(href='#' title='Github')
-                        i.github-logo.fa.fa-github.fa-2x.social-icon.text-center
-            div.col-xs-4
-                ul.list-unstyled
-                    li.title Platforms
-                    li: a(href='#') Windows
-                    li: a(href='#') Mac
-                    li: a(href='#') PlayStation
-                    li: a(href='#') Xbox
-                    li: a(href='#') WiiU
-            div.col-xs-4
-                ul.list-unstyled
-                    li.title Contact
-                    li: a(href='http://localhost:3000/example') email
-    div.row
-        div.col-xs-4.text-center
-            a(href='#') Terms of Service
-        div.col-xs-4.text-center
-            a(href='#') Privacy
-        div.col-xs-4.text-center
-            a(href='#') Security
-    div.row
-        p.copyright.muted.pull-right &copy;2015 nfactorial - All rights reserved
 
 
 
