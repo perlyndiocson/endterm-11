@@ -50,10 +50,10 @@ body {
 	<li><a href="https://svg-1.herokuapp.com/">Svg</a></li>
 	</div>
 	<div class="topnav">
-	<li><a href="#canvas">Canvas</a></li>
+	<li><a href="https://codepen.io/kai-diocson/pen/gOwRBYw">Canvas</a></li>
 	</div>
 	<div class="topnav">
-	<li><a href="HI IM PERLYN DIOCSON NICE MEETING YOU">About The Author</a></li>
+		<li><a href="<h1>HI IM PERLYN DIOCSON NICE MEETING YOU</h1>">About The Author</a></li>
 	</div>
   <div class="topnav-right">
   <a href="#search">Search</a>
