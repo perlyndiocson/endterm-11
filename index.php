@@ -43,7 +43,8 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
 	</div>
-	<li><a href="https://css-1.herokuapp.com/">Svg</a></li>
+	<li><a href="https://css-1.herokuapp.com/">Css</a></li>
+  <a href="#svg">Svg</a>
   <a href="#canvas">Canvas</a>
   <a href="#contact">Contact</a>
   <div class="topnav-right">
