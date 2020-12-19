@@ -53,7 +53,7 @@ body {
 	<li><a href="#canvas">Canvas</a></li>
 	</div>
 	<div class="topnav">
-	<li><a href="#contact">Contact</a></li>
+	<li><a href="#about the author">About The Author<h2><cneter> Hi im Perlyn Diocson a third year college in USLS nice meeting you !!<br></a></li>
 	</div>
   <div class="topnav-right">
   <a href="#search">Search</a>
