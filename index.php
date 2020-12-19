@@ -44,7 +44,6 @@ body {
   <a class="active" href="#home">Home</a>
 	</div>
 	<li><a href="https://css-1.herokuapp.com/">Svg</a></li>
-	</div>
   <a href="#canvas">Canvas</a>
   <a href="#contact">Contact</a>
   <div class="topnav-right">
